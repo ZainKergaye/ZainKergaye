@@ -1,7 +1,10 @@
 <h1 align = "center"> Hi! I'm Zain Kergaye! </h1>
 
 <h3 align = "center"> Highschool student </h3>
-<h4 align = "center"> Currently learning Java </h4>
+<h4 align = "center"> I am currently learning more HTML and CSS.
+I have an interest in low-level computing and assembly.
+I want to know more about CNC programming.
+I am looking for more experience regarding pentesting </h4>
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=ZainKergaye&color=dcc300">
 </p>
