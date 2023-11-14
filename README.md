@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi! I'm Zain Kergaye! </h1>
 
-<h3 align = "center"> Highschool student </h3>
+<h3 align = "center"> College student </h3>
 <h4 align = "center"> I am currently learning more HTML and CSS. <br>
 I have an interest in low-level computing and assembly. <br>
 I want to know more about CNC programming. <br>
