@@ -12,9 +12,11 @@ I am looking for more experience regarding pentesting </h4>
 <h2 align = "center"> Stats </h2> 
 
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainKergaye&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.75rem&layout=compact">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZainKergaye&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.75rem">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=zainkergaye&show_icons=true&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db'>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zainkergaye&hide_border=true&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkergaye&hide_border=true&theme=default" />
+</picture>
 
 <h2 align = "center"> Known Tools </h2>
 
