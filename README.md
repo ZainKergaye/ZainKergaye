@@ -39,9 +39,4 @@ I am looking for more experience regarding pentesting </h4>
   
 <h2 align="center">Contact</h2>
 <p align="center">
- <a href="mailto:zain4utah@gmail.com"> <img src="https://user-images.githubusercontent.com/62440012/156062381-a1125b03-f99f-4b49-8911-7135d640c9b9.png" alt=:zain4utah@gmail.com" width="50" height = "40"> </a>
-
-
-
-
-
+ <a href="mailto:zain@zkergaye.me"> <img src="https://github.com/user-attachments/assets/1722f81e-4ee9-4678-932a-635a99927f35" alt=:zain@zkergaye.me" width="50" height = "50"> </a>
